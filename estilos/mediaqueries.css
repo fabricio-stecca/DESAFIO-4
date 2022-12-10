@@ -45,7 +45,7 @@
     main {
         width: 90vw;
         height: 331px;
-        background-position: bottom;
+        background-position: center;
     }
 
     .t1 { 
@@ -66,14 +66,14 @@
 
     input#submit {margin: auto;
         margin-top: 10px;
-        width: 419px;     
+        width: 316px;     
         
     }
 
     input#rec {
         margin: auto;
         margin-top: 10px;
-        width: 419px;
+        width: 316px;
     }
 
     p {
