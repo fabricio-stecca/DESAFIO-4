@@ -6,8 +6,8 @@
         background-image: linear-gradient(to bottom, aqua, blueviolet);
     }
 
-    main {width: 80vw;
-
+    main {
+        width: 80vw;
     }
 
     div#formulario {
@@ -15,7 +15,8 @@
         width: 40vw;   
     }
 
-    form {margin: auto;
+    form {
+        margin: auto;
     }
 
     input#submit {margin: auto;
@@ -47,9 +48,10 @@
         background-position: bottom;
     }
 
-    .titulo {
-        
+    .t1 { 
+        font-weight: 600;
     }
+
 
     div#formulario {
         width: 40vw;
@@ -58,14 +60,20 @@
         background-color: rgba(255, 255, 255, 0.945);
     }
 
+    .caixat {
+        width: 272px;
+    }
+
     input#submit {margin: auto;
         margin-top: 10px;
+        width: 419px;     
         
     }
 
     input#rec {
         margin: auto;
         margin-top: 10px;
+        width: 419px;
     }
 
     p {
