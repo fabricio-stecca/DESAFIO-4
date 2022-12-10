@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+/* MOBILE FIRST */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(124, 40, 202);
+}
+
+main {
+    background-image: url(../IMGS/pexels-sean-whang-804269\(1\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding-top: 1px;
+    width: 300px;
+    height: 595px;
+    box-shadow: 3px 5px 10px black;
+}
+
+.titulo {
+    text-align: center;
+    margin: 18px 1px 35px 1px;
+    text-shadow: 1px 1px 1px rgb(116, 116, 116);
+}
+
+.t1 {
+    text-align: justify;
+    margin: 1px 1px 1px 1px;
+    padding: 1px 10px 15px 10px;
+}
+
+
+.material-symbols-outlined {display: block;
+    border: 1px solid black;
+    margin: 1px 1px 0px 1px;
+    padding: 5px 5px 5px 5px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    transform: translateY(1px);
+    
+}
+
+.caixat {
+    height: 33px;
+    width: 221px;
+    margin: 3px 1px 1px 37px;
+    border-radius: 8px;
+    border: 1px solid blueviolet;
+    padding: 1px 1px 1px 1px;
+
+}
+
+
+
+div#formulario {
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    margin-top: 228px;
+    border-radius: 10px;
+
+}
+
+input#submit {display: block;
+    margin: auto;
+    width: 277px;
+    height: 29px;
+    padding: 5px;
+    margin: 19px 7px 10px 1px;
+    background-color: lightseagreen;
+}
+
+input#rec {display: block;
+    margin: auto;
+    width: 277px;
+    height: 29px;
+    padding: 5px;
+    margin: 10px 7px 10px 1px;
+    
+}
