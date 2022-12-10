@@ -26,6 +26,7 @@ main {
     width: 300px;
     height: 595px;
     box-shadow: 3px 5px 10px black;
+    transition: 1s;
 }
 
 .titulo {
