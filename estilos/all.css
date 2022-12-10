@@ -70,6 +70,10 @@ main {
 
 }
 
+.caixat:focus-within {
+    background-color: azure;
+}
+
 
 
 div#formulario {
