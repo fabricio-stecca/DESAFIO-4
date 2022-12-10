@@ -17,6 +17,7 @@ main {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
     border-radius: 10px;
     margin: auto;
     margin-top: 70px;
