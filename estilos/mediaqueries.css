@@ -8,17 +8,11 @@
 
     main {width: 80vw;
 
-
-
-        
     }
 
     div#formulario {
         margin: 146px 1px 1px 168px;
-        width: 40vw;
-        
-        
-
+        width: 40vw;   
     }
 
     form {margin: auto;
@@ -40,7 +34,7 @@
 
 }
 
-@media screen and (min-width: 992px) and (max-width: 1200px) {
+@media screen and (min-width: 992px) {
 
     body {
         background-image: linear-gradient(to bottom, aqua, blueviolet);
@@ -75,3 +69,4 @@
     }
 
 }
+
